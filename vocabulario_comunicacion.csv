@@ -1,160 +1,359 @@
-Palabra en Inglés,Categoría Gramatical
-Algorithm,Sustantivos (Nouns)
-Analytics,Sustantivos (Nouns)
-Avatar,Sustantivos (Nouns)
-Caption,Sustantivos (Nouns)
-Comment,Sustantivos (Nouns)
-Community,Sustantivos (Nouns)
-Content,Sustantivos (Nouns)
-Dashboard,Sustantivos (Nouns)
-Engagement,Sustantivos (Nouns)
-Feed,Sustantivos (Nouns)
-Follower,Sustantivos (Nouns)
-Hashtag,Sustantivos (Nouns)
-Influencer,Sustantivos (Nouns)
-Meme,Sustantivos (Nouns)
-Metric,Sustantivos (Nouns)
-Notification,Sustantivos (Nouns)
-Platform,Sustantivos (Nouns)
-Post,Sustantivos (Nouns)
-Profile,Sustantivos (Nouns)
-Reach,Sustantivos (Nouns)
-Reel,Sustantivos (Nouns)
-Story,Sustantivos (Nouns)
-Stream,Sustantivos (Nouns)
-Subscriber,Sustantivos (Nouns)
-Timeline,Sustantivos (Nouns)
-Trend,Sustantivos (Nouns)
-Vlog,Sustantivos (Nouns)
-Blockbuster,Sustantivos (Nouns)
-Box office,Sustantivos (Nouns)
-Broadcast,Sustantivos (Nouns)
-Camera,Sustantivos (Nouns)
-Cast,Sustantivos (Nouns)
-Channel,Sustantivos (Nouns)
-Cinematography,Sustantivos (Nouns)
-Climax,Sustantivos (Nouns)
-Crew,Sustantivos (Nouns)
-Director,Sustantivos (Nouns)
-Documentary,Sustantivos (Nouns)
-Episode,Sustantivos (Nouns)
-Frame,Sustantivos (Nouns)
-Genre,Sustantivos (Nouns)
-Lens,Sustantivos (Nouns)
-Network,Sustantivos (Nouns)
-Pilot,Sustantivos (Nouns)
-Plot,Sustantivos (Nouns)
-Premiere,Sustantivos (Nouns)
-Producer,Sustantivos (Nouns)
-Rating,Sustantivos (Nouns)
-Scene,Sustantivos (Nouns)
-Screenplay,Sustantivos (Nouns)
-Script,Sustantivos (Nouns)
-Season,Sustantivos (Nouns)
-Soundtrack,Sustantivos (Nouns)
-Spoiler,Sustantivos (Nouns)
-Studio,Sustantivos (Nouns)
-Subtitle,Sustantivos (Nouns)
-Viewer,Sustantivos (Nouns)
-Actor,Sustantivos (Nouns)
-Actress,Sustantivos (Nouns)
-Aesthetics,Sustantivos (Nouns)
-Applause,Sustantivos (Nouns)
-Audience,Sustantivos (Nouns)
-Canvas,Sustantivos (Nouns)
-Choreography,Sustantivos (Nouns)
-Critic,Sustantivos (Nouns)
-Curtain,Sustantivos (Nouns)
-Dialogue,Sustantivos (Nouns)
-Exhibition,Sustantivos (Nouns)
-Gallery,Sustantivos (Nouns)
-Landscape,Sustantivos (Nouns)
-Masterpiece,Sustantivos (Nouns)
-Monologue,Sustantivos (Nouns)
-Museum,Sustantivos (Nouns)
-Painter,Sustantivos (Nouns)
-Performance,Sustantivos (Nouns)
-Play,Sustantivos (Nouns)
-Playwright,Sustantivos (Nouns)
-Portrait,Sustantivos (Nouns)
-Props,Sustantivos (Nouns)
-Rehearsal,Sustantivos (Nouns)
-Review,Sustantivos (Nouns)
-Sculptor,Sustantivos (Nouns)
-Sculpture,Sustantivos (Nouns)
-Sketch,Sustantivos (Nouns)
-Stage,Sustantivos (Nouns)
-Theater,Sustantivos (Nouns)
-Wardrobe,Sustantivos (Nouns)
-Block,Verbos (Verbs)
-Comment,Verbos (Verbs)
-Follow,Verbos (Verbs)
-Like,Verbos (Verbs)
-Mute,Verbos (Verbs)
-Post,Verbos (Verbs)
-Scroll,Verbos (Verbs)
-Share,Verbos (Verbs)
-Stream,Verbos (Verbs)
-Subscribe,Verbos (Verbs)
-Tag,Verbos (Verbs)
-Tweet,Verbos (Verbs)
-Unfollow,Verbos (Verbs)
-Update,Verbos (Verbs)
-Act,Verbos (Verbs)
-Air,Verbos (Verbs)
-Animate,Verbos (Verbs)
-Applaud,Verbos (Verbs)
-Audition,Verbos (Verbs)
-Broadcast,Verbos (Verbs)
-Cast,Verbos (Verbs)
-Direct,Verbos (Verbs)
-Draw,Verbos (Verbs)
-Edit,Verbos (Verbs)
-Entertain,Verbos (Verbs)
-Exhibit,Verbos (Verbs)
-Film,Verbos (Verbs)
-Illustrate,Verbos (Verbs)
-Paint,Verbos (Verbs)
-Perform,Verbos (Verbs)
-Portray,Verbos (Verbs)
-Premiere,Verbos (Verbs)
-Produce,Verbos (Verbs)
-Record,Verbos (Verbs)
-Rehearse,Verbos (Verbs)
-Review,Verbos (Verbs)
-Sculpt,Verbos (Verbs)
-Shoot,Verbos (Verbs)
-Sketch,Verbos (Verbs)
-Abstract,Adjetivos (Adjectives)
-Aesthetic,Adjetivos (Adjectives)
-Artistic,Adjetivos (Adjectives)
-Authentic,Adjetivos (Adjectives)
-Cinematic,Adjetivos (Adjectives)
-Classic,Adjetivos (Adjectives)
-Contemporary,Adjetivos (Adjectives)
-Controversial,Adjetivos (Adjectives)
-Creative,Adjetivos (Adjectives)
-Digital,Adjetivos (Adjectives)
-Dramatic,Adjetivos (Adjectives)
-Engaging,Adjetivos (Adjectives)
-Fictional,Adjetivos (Adjectives)
-Interactive,Adjetivos (Adjectives)
-Live,Adjetivos (Adjectives)
-Mainstream,Adjetivos (Adjectives)
-Modern,Adjetivos (Adjectives)
-Original,Adjetivos (Adjectives)
-Prerecorded,Adjetivos (Adjectives)
-Surreal,Adjetivos (Adjectives)
-Theatrical,Adjetivos (Adjectives)
-Trending,Adjetivos (Adjectives)
-Viral,Adjetivos (Adjectives)
-Visual,Adjetivos (Adjectives)
-Aesthetically,Adverbios (Adverbs)
-Artistically,Adverbios (Adverbs)
-Cinematically,Adverbios (Adverbs)
-Creatively,Adverbios (Adverbs)
-Digitally,Adverbios (Adverbs)
-Dramatically,Adverbios (Adverbs)
-Live,Adverbios (Adverbs)
-Theatrically,Adverbios (Adverbs)
-Visually,Adverbios (Adverbs)
+Palabra en Inglés,Categoría Gramatical,Traducción
+Market,Sustantivos (Nouns),Mercado
+Consumer,Sustantivos (Nouns),Consumidor
+Law,Sustantivos (Nouns),Ley / Derecho
+University,Sustantivos (Nouns),Universidad
+Contract,Sustantivos (Nouns),Contrato
+Price,Sustantivos (Nouns),Precio
+Strategy,Sustantivos (Nouns),Estrategia
+Product,Sustantivos (Nouns),Producto
+Brand,Sustantivos (Nouns),Marca
+Profit,Sustantivos (Nouns),Ganancia
+Revenue,Sustantivos (Nouns),Ingresos
+Court,Sustantivos (Nouns),Tribunal / Corte
+Judge,Sustantivos (Nouns),Juez
+Student,Sustantivos (Nouns),Estudiante
+Professor,Sustantivos (Nouns),Profesor
+Degree,Sustantivos (Nouns),Título / Grado
+Campaign,Sustantivos (Nouns),Campaña
+Target,Sustantivos (Nouns),Objetivo / Público Meta
+Audience,Sustantivos (Nouns),Audiencia
+Investment,Sustantivos (Nouns),Inversión
+Asset,Sustantivos (Nouns),Activo
+Liability,Sustantivos (Nouns),Pasivo / Responsabilidad
+Rights,Sustantivos (Nouns),Derechos
+Duty,Sustantivos (Nouns),Deber / Obligación
+Ad,Sustantivos (Nouns),Anuncio
+Advertising,Sustantivos (Nouns),Publicidad
+Algorithm,Sustantivos (Nouns),Algoritmo
+Analytics,Sustantivos (Nouns),Analítica
+Avatar,Sustantivos (Nouns),Avatar
+Billboard,Sustantivos (Nouns),Espectacular / Valla publicitaria
+Blockbuster,Sustantivos (Nouns),Éxito de taquilla
+Box office,Sustantivos (Nouns),Taquilla
+Broadcasting,Sustantivos (Nouns),Radiodifusión / Transmisión
+Camera,Sustantivos (Nouns),Cámara
+Caption,Sustantivos (Nouns),Pie de foto / Subtítulo
+Cast,Sustantivos (Nouns),Elenco
+Channel,Sustantivos (Nouns),Canal
+Cinematography,Sustantivos (Nouns),Cinematografía
+Circulation,Sustantivos (Nouns),Tiraje / Circulación
+Climax,Sustantivos (Nouns),Clímax
+Comment,Sustantivos (Nouns),Comentario
+Commercial,Sustantivos (Nouns),Comercial
+Community,Sustantivos (Nouns),Comunidad
+Content,Sustantivos (Nouns),Contenido
+Copywriting,Sustantivos (Nouns),Redacción publicitaria
+Coverage,Sustantivos (Nouns),Cobertura
+Crew,Sustantivos (Nouns),Equipo de producción
+Dashboard,Sustantivos (Nouns),Panel de control
+Deadline,Sustantivos (Nouns),Fecha límite
+Demographics,Sustantivos (Nouns),Demografía
+Director,Sustantivos (Nouns),Director
+Documentary,Sustantivos (Nouns),Documental
+Editorial,Sustantivos (Nouns),Editorial
+Engagement,Sustantivos (Nouns),Interacción / Compromiso
+Episode,Sustantivos (Nouns),Episodio
+Feed,Sustantivos (Nouns),Muro / Feed
+Feedback,Sustantivos (Nouns),Retroalimentación
+Follower,Sustantivos (Nouns),Seguidor
+Frame,Sustantivos (Nouns),Fotograma / Encuadre
+Genre,Sustantivos (Nouns),Género
+Hashtag,Sustantivos (Nouns),Etiqueta / Hashtag
+Headline,Sustantivos (Nouns),Titular
+Influence,Sustantivos (Nouns),Influencia
+Influencer,Sustantivos (Nouns),Influenciador
+Journalism,Sustantivos (Nouns),Periodismo
+Keyword,Sustantivos (Nouns),Palabra clave
+Layout,Sustantivos (Nouns),Diseño / Maquetación
+Lens,Sustantivos (Nouns),Lente
+Logotype,Sustantivos (Nouns),Logotipo
+Mass media,Sustantivos (Nouns),Medios masivos
+Medium,Sustantivos (Nouns),Medio
+Meme,Sustantivos (Nouns),Meme
+Message,Sustantivos (Nouns),Mensaje
+Metric,Sustantivos (Nouns),Métrica
+Narrative,Sustantivos (Nouns),Narrativa
+Network,Sustantivos (Nouns),Red / Cadena
+Networking,Sustantivos (Nouns),Creación de redes / Networking
+Newsletter,Sustantivos (Nouns),Boletín informativo
+Notification,Sustantivos (Nouns),Notificación
+Objectivity,Sustantivos (Nouns),Objetividad
+Outcome,Sustantivos (Nouns),Resultado
+Pilot,Sustantivos (Nouns),Piloto
+Pitch,Sustantivos (Nouns),Presentación de ventas / Pitch
+Platform,Sustantivos (Nouns),Plataforma
+Plot,Sustantivos (Nouns),Trama
+Post,Sustantivos (Nouns),Publicación
+Premiere,Sustantivos (Nouns),Estreno
+Press release,Sustantivos (Nouns),Comunicado de prensa
+Producer,Sustantivos (Nouns),Productor
+Profile,Sustantivos (Nouns),Perfil
+Public Relations (PR),Sustantivos (Nouns),Relaciones Públicas (RP)
+Publicity,Sustantivos (Nouns),Publicidad (no pagada) / Difusión
+Rating,Sustantivos (Nouns),Índice de audiencia
+Reach,Sustantivos (Nouns),Alcance
+Reel,Sustantivos (Nouns),Reel / Corto
+Reputation,Sustantivos (Nouns),Reputación
+Scene,Sustantivos (Nouns),Escena
+Screenplay,Sustantivos (Nouns),Guion de cine
+Script,Sustantivos (Nouns),Guion
+Season,Sustantivos (Nouns),Temporada
+Slogan,Sustantivos (Nouns),Eslogan
+Soundtrack,Sustantivos (Nouns),Banda sonora
+Source,Sustantivos (Nouns),Fuente
+Spoiler,Sustantivos (Nouns),Arruinador de trama / Spoiler
+Spokesperson,Sustantivos (Nouns),Vocero / Portavoz
+Sponsor,Sustantivos (Nouns),Patrocinador
+Story,Sustantivos (Nouns),Historia
+Storytelling,Sustantivos (Nouns),Narración de historias
+Stream,Sustantivos (Nouns),Transmisión en vivo
+Studio,Sustantivos (Nouns),Estudio
+Subscriber,Sustantivos (Nouns),Suscriptor
+Subtitle,Sustantivos (Nouns),Subtítulo
+Timeline,Sustantivos (Nouns),Línea de tiempo
+Topic,Sustantivos (Nouns),Tema
+Traffic,Sustantivos (Nouns),Tráfico
+Trend,Sustantivos (Nouns),Tendencia
+Viewer,Sustantivos (Nouns),Espectador
+Vlog,Sustantivos (Nouns),Videoblog
+Actor,Sustantivos (Nouns),Actor
+Actress,Sustantivos (Nouns),Actriz
+Aesthetics,Sustantivos (Nouns),Estética
+Applause,Sustantivos (Nouns),Aplauso
+Canvas,Sustantivos (Nouns),Lienzo
+Choreography,Sustantivos (Nouns),Coreografía
+Critic,Sustantivos (Nouns),Crítico
+Curtain,Sustantivos (Nouns),Telón
+Dialogue,Sustantivos (Nouns),Diálogo
+Exhibition,Sustantivos (Nouns),Exhibición / Exposición
+Gallery,Sustantivos (Nouns),Galería
+Landscape,Sustantivos (Nouns),Paisaje
+Masterpiece,Sustantivos (Nouns),Obra maestra
+Monologue,Sustantivos (Nouns),Monólogo
+Museum,Sustantivos (Nouns),Museo
+Painter,Sustantivos (Nouns),Pintor
+Performance,Sustantivos (Nouns),Actuación / Presentación
+Play,Sustantivos (Nouns),Obra de teatro
+Playwright,Sustantivos (Nouns),Dramaturgo
+Portrait,Sustantivos (Nouns),Retrato
+Props,Sustantivos (Nouns),Utilería
+Rehearsal,Sustantivos (Nouns),Ensayo
+Sculptor,Sustantivos (Nouns),Escultor
+Sculpture,Sustantivos (Nouns),Escultura
+Sketch,Sustantivos (Nouns),Boceto
+Stage,Sustantivos (Nouns),Escenario
+Theater,Sustantivos (Nouns),Teatro
+Wardrobe,Sustantivos (Nouns),Vestuario
+Analyze,Verbos (Verbs),Analizar
+Buy,Verbos (Verbs),Comprar
+Sell,Verbos (Verbs),Vender
+Negotiate,Verbos (Verbs),Negociar
+Study,Verbos (Verbs),Estudiar
+Teach,Verbos (Verbs),Enseñar
+Promote,Verbos (Verbs),Promover
+Launch,Verbos (Verbs),Lanzar
+Invest,Verbos (Verbs),Invertir
+Defend,Verbos (Verbs),Defender
+Argue,Verbos (Verbs),Argumentar
+Sue,Verbos (Verbs),Demandar
+Sign,Verbos (Verbs),Firmar
+Develop,Verbos (Verbs),Desarrollar
+Create,Verbos (Verbs),Crear
+Manage,Verbos (Verbs),Gestionar / Administrar
+Lead,Verbos (Verbs),Liderar
+Increase,Verbos (Verbs),Aumentar
+Decrease,Verbos (Verbs),Disminuir
+Persuade,Verbos (Verbs),Persuadir
+Convince,Verbos (Verbs),Convencer
+Review,Verbos (Verbs),Revisar
+Act,Verbos (Verbs),Actuar
+Air,Verbos (Verbs),Emitir al aire
+Animate,Verbos (Verbs),Animar
+Appeal,Verbos (Verbs),Atraer / Apelar
+Applaud,Verbos (Verbs),Aplaudir
+Audition,Verbos (Verbs),Audicionar
+Block,Verbos (Verbs),Bloquear
+Broadcast,Verbos (Verbs),Transmitir
+Communicate,Verbos (Verbs),Comunicar
+Convey,Verbos (Verbs),Transmitir (una idea)
+Copy edit,Verbos (Verbs),Corregir estilo
+Design,Verbos (Verbs),Diseñar
+Direct,Verbos (Verbs),Dirigir
+Draft,Verbos (Verbs),Redactar (borrador)
+Draw,Verbos (Verbs),Dibujar
+Edit,Verbos (Verbs),Editar
+Engage,Verbos (Verbs),Involucrar / Conectar
+Entertain,Verbos (Verbs),Entretener
+Exhibit,Verbos (Verbs),Exhibir
+Film,Verbos (Verbs),Filmar
+Follow,Verbos (Verbs),Seguir
+Formulate,Verbos (Verbs),Formular
+Identify,Verbos (Verbs),Identificar
+Illustrate,Verbos (Verbs),Ilustrar
+Inform,Verbos (Verbs),Informar
+Interview,Verbos (Verbs),Entrevistar
+Like,Verbos (Verbs),Dar me gusta
+Monitor,Verbos (Verbs),Monitorear
+Mute,Verbos (Verbs),Silenciar
+Notify,Verbos (Verbs),Notificar
+Optimize,Verbos (Verbs),Optimizar
+Paint,Verbos (Verbs),Pintar
+Perform,Verbos (Verbs),Interpretar / Actuar
+Pitch,Verbos (Verbs),Proponer / Lanzar idea
+Portray,Verbos (Verbs),Retratar / Representar
+Post,Verbos (Verbs),Publicar
+Premiere,Verbos (Verbs),Estrenar
+Produce,Verbos (Verbs),Producir
+Publish,Verbos (Verbs),Publicar (en medios)
+Reach,Verbos (Verbs),Alcanzar
+Record,Verbos (Verbs),Grabar
+Rehearse,Verbos (Verbs),Ensayar
+Report,Verbos (Verbs),Reportar / Informar
+Script,Verbos (Verbs),Guionizar
+Scroll,Verbos (Verbs),Desplazarse (en pantalla)
+Sculpt,Verbos (Verbs),Esculpir
+Share,Verbos (Verbs),Compartir
+Shoot,Verbos (Verbs),Rodar / Disparar
+Sketch,Verbos (Verbs),Bocetar
+Stream,Verbos (Verbs),Transmitir por internet
+Subscribe,Verbos (Verbs),Suscribirse
+Tag,Verbos (Verbs),Etiquetar
+Target,Verbos (Verbs),Apuntar a / Dirigirse a
+Track,Verbos (Verbs),Rastrear
+Tweet,Verbos (Verbs),Tuitear
+Unfollow,Verbos (Verbs),Dejar de seguir
+Update,Verbos (Verbs),Actualizar
+Verify,Verbos (Verbs),Verificar
+Expensive,Adjetivos (Adjectives),Caro
+Legal,Adjetivos (Adjectives),Legal
+Profitable,Adjetivos (Adjectives),Rentable
+Academic,Adjetivos (Adjectives),Académico
+Corporate,Adjetivos (Adjectives),Corporativo
+Commercial,Adjetivos (Adjectives),Comercial
+Effective,Adjetivos (Adjectives),Efectivo
+Efficient,Adjetivos (Adjectives),Eficiente
+Strategic,Adjetivos (Adjectives),Estratégico
+Competitive,Adjetivos (Adjectives),Competitivo
+Exclusive,Adjetivos (Adjectives),Exclusivo
+Massive,Adjetivos (Adjectives),Masivo
+Civil,Adjetivos (Adjectives),Civil
+Criminal,Adjetivos (Adjectives),Penal / Criminal
+Innovative,Adjetivos (Adjectives),Innovador
+Traditional,Adjetivos (Adjectives),Tradicional
+Global,Adjetivos (Adjectives),Global
+Local,Adjetivos (Adjectives),Local
+Public,Adjetivos (Adjectives),Público
+Private,Adjetivos (Adjectives),Privado
+Financial,Adjetivos (Adjectives),Financiero
+Valuable,Adjetivos (Adjectives),Valioso
+Abstract,Adjetivos (Adjectives),Abstracto
+Accurate,Adjetivos (Adjectives),Preciso / Exacto
+Aesthetic,Adjetivos (Adjectives),Estético
+Artistic,Adjetivos (Adjectives),Artístico
+Authentic,Adjetivos (Adjectives),Auténtico
+Biased,Adjetivos (Adjectives),Sesgado / Parcial
+Cinematic,Adjetivos (Adjectives),Cinematográfico
+Classic,Adjetivos (Adjectives),Clásico
+Compelling,Adjetivos (Adjectives),Convincente / Cautivador
+Comprehensive,Adjetivos (Adjectives),Exhaustivo / Integral
+Contemporary,Adjetivos (Adjectives),Contemporáneo
+Controversial,Adjetivos (Adjectives),Controvertido
+Creative,Adjetivos (Adjectives),Creativo
+Credible,Adjetivos (Adjectives),Creíble
+Digital,Adjetivos (Adjectives),Digital
+Dramatic,Adjetivos (Adjectives),Dramático
+Dynamic,Adjetivos (Adjectives),Dinámico
+Engaging,Adjetivos (Adjectives),Atractivo / Envolvente
+Fictional,Adjetivos (Adjectives),Ficticio
+Interactive,Adjetivos (Adjectives),Interactivo
+Live,Adjetivos (Adjectives),En vivo
+Mainstream,Adjetivos (Adjectives),Corriente principal / Comercial
+Modern,Adjetivos (Adjectives),Moderno
+Objective,Adjetivos (Adjectives),Objetivo
+Original,Adjetivos (Adjectives),Original
+Persuasive,Adjetivos (Adjectives),Persuasivo
+Prerecorded,Adjetivos (Adjectives),Pregrabado
+Provocative,Adjetivos (Adjectives),Provocativo
+Relevant,Adjetivos (Adjectives),Relevante
+Surreal,Adjetivos (Adjectives),Surrealista
+Targeted,Adjetivos (Adjectives),Dirigido
+Theatrical,Adjetivos (Adjectives),Teatral
+Trending,Adjetivos (Adjectives),En tendencia
+Viral,Adjetivos (Adjectives),Viral
+Visual,Adjetivos (Adjectives),Visual
+Quickly,Adverbios (Adverbs),Rápidamente
+Legally,Adverbios (Adverbs),Legalmente
+Significantly,Adverbios (Adverbs),Significativamente
+Highly,Adverbios (Adverbs),Altamente
+Currently,Adverbios (Adverbs),Actualmente
+Previously,Adverbios (Adverbs),Previamente
+Successfully,Adverbios (Adverbs),Exitosamente
+Directly,Adverbios (Adverbs),Directamente
+Indirectly,Adverbios (Adverbs),Indirectamente
+Often,Adverbios (Adverbs),A menudo
+Rarely,Adverbios (Adverbs),Raramente
+Always,Adverbios (Adverbs),Siempre
+Never,Adverbios (Adverbs),Nunca
+Usually,Adverbios (Adverbs),Usualmente
+Exactly,Adverbios (Adverbs),Exactamente
+Approximately,Adverbios (Adverbs),Aproximadamente
+Strictly,Adverbios (Adverbs),Estrictamente
+Accurately,Adverbios (Adverbs),Con precisión
+Aesthetically,Adverbios (Adverbs),Estéticamente
+Artistically,Adverbios (Adverbs),Artísticamente
+Cinematically,Adverbios (Adverbs),Cinematográficamente
+Creatively,Adverbios (Adverbs),Creativamente
+Digitally,Adverbios (Adverbs),Digitalmente
+Dramatically,Adverbios (Adverbs),Dramáticamente
+Frequently,Adverbios (Adverbs),Frecuentemente
+Generally,Adverbios (Adverbs),Generalmente
+Globally,Adverbios (Adverbs),Globalmente
+Historically,Adverbios (Adverbs),Históricamente
+Ideally,Adverbios (Adverbs),Idealmente
+Immediately,Adverbios (Adverbs),Inmediatamente
+Initially,Adverbios (Adverbs),Inicialmente
+Locally,Adverbios (Adverbs),Localmente
+Nationally,Adverbios (Adverbs),Nacionalmente
+Potentially,Adverbios (Adverbs),Potencialmente
+Promptly,Adverbios (Adverbs),Prontamente / De inmediato
+Strategically,Adverbios (Adverbs),Estratégicamente
+Theatrically,Adverbios (Adverbs),Teatralmente
+Visually,Adverbios (Adverbs),Visualmente
+And,Conjunciones (Conjunctions),Y
+But,Conjunciones (Conjunctions),Pero
+Or,Conjunciones (Conjunctions),O
+So,Conjunciones (Conjunctions),Así que
+Because,Conjunciones (Conjunctions),Porque
+Although,Conjunciones (Conjunctions),Aunque
+Even though,Conjunciones (Conjunctions),A pesar de que
+However,Conjunciones (Conjunctions),Sin embargo
+Therefore,Conjunciones (Conjunctions),Por lo tanto
+Moreover,Conjunciones (Conjunctions),Además
+Furthermore,Conjunciones (Conjunctions),Es más / Además
+Unless,Conjunciones (Conjunctions),A menos que
+Since,Conjunciones (Conjunctions),Dado que / Desde
+While,Conjunciones (Conjunctions),Mientras
+Whereas,Conjunciones (Conjunctions),Mientras que
+I,Pronombres (Pronouns),Yo
+You,Pronombres (Pronouns),Tú / Ustedes
+He,Pronombres (Pronouns),Él
+She,Pronombres (Pronouns),Ella
+It,Pronombres (Pronouns),Eso / Ello
+We,Pronombres (Pronouns),Nosotros
+They,Pronombres (Pronouns),Ellos / Ellas
+Me,Pronombres (Pronouns),Me / A mí
+Him,Pronombres (Pronouns),Lo / A él
+Her,Pronombres (Pronouns),La / A ella
+Us,Pronombres (Pronouns),Nos / A nosotros
+Them,Pronombres (Pronouns),Los / A ellos
+My,Pronombres (Pronouns),Mi / Mis
+Your,Pronombres (Pronouns),Tu / Tus / Su (de ustedes)
+His,Pronombres (Pronouns),Su (de él)
+Its,Pronombres (Pronouns),Su (de eso)
+Our,Pronombres (Pronouns),Nuestro
+Their,Pronombres (Pronouns),Su (de ellos)
+Who,Pronombres (Pronouns),Quién
+Whom,Pronombres (Pronouns),A quién
+Which,Pronombres (Pronouns),Cuál / Que
+That,Pronombres (Pronouns),Que / Eso
