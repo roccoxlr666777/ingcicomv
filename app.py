@@ -140,7 +140,7 @@ with tab_vocab:
 with tab_gram:
     st.markdown("### Estructuras Clave en la Comunicación")
     # Agregué una imagen de contexto para la sección gramatical
-    st.image("https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80", height=200, use_container_width=True)
+    st.image("https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80", use_container_width=True)
     
     st.info("💡 Recuerda: Dominar estas fórmulas te permite redactar campañas, guiones y comunicados de prensa con impacto global.")
     
